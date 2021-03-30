@@ -1,0 +1,10 @@
+.btn {
+    opacity: 0.8;
+}
+
+.navbar {
+    background-color: black;
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+}
